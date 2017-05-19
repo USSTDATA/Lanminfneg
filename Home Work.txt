@@ -1,0 +1,13 @@
+1.创建github账户并且下载github desktop
+2.将github账号发给老师方便老师将权限添加入项目使得可以上传文件
+3.使用账号登陆github desktop
+4.点击+号，选择clone，clone lans1995/lanswork.github.io项目，选择你要放置文件的位置并clone项目
+5.将作业放入下载好的项目里的DB Homework文件夹，然后再次返回github desktop
+6.changes旁边有白点说明项目文件已经有了改动说明你的作业已经放入，接下来在summary里写入姓名，description一样然后点击commit to master。
+7.commit成功以后，点击publish进行上传跟新到服务器就完成了作业的提交。
+
+
+
+
+2371756293	
+fflc30134
